@@ -45,4 +45,6 @@ If you'd like to discuss a project, collaborate, or simply connect, feel free to
 - [michal9741003@gmail.com](mailto:michal9741003@gmail.com)
 
 You can also connect with me on LinkedIn:
+![image]([https://github.com/MichalTzadok/MichalTzadok/assets/152266639/7b5de7ef-ddb4-4ed2-88b8-53fe11484f0b](https://www.linkedin.com/in/michal-tzadok/))
+
 - [Michal Tzadok on LinkedIn](https://www.linkedin.com/in/michal-tzadok/)
