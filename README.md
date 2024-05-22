@@ -43,3 +43,6 @@ I believe in continuous learning and aim to create innovative software solutions
 ## 📬 Let's Connect!
 If you'd like to discuss a project, collaborate, or simply connect, feel free to reach out via email:
 - [michal9741003@gmail.com](mailto:michal9741003@gmail.com)
+
+You can also connect with me on LinkedIn:
+- [Michal Tzadok on LinkedIn](https://www.linkedin.com/in/michal-tzadok/)
